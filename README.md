@@ -1,8 +1,16 @@
 <h1 align="center">Hey 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full-stack developer and ML enthusiast</h3>
+<div align="center">
+  <a href="https://www.daniellu.ca/">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</div>
 
-- 🔭 I’m currently working on [GeoPredictr](https://github.com/FinityFly/geopredictr)
-- 📫 How to reach me **personal@daniellu.ca**
+- ☁️ Check out my latest project [CloudQ](https://github.com/FinityFly/CloudQ)!
+- 📫 How to reach me **daniellu@cmail.carleton.ca**
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=tokyonight" alt="finityfly" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -12,7 +20,5 @@
   &thinsp;
   <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
   &thinsp;
-  <a href="https://devpost.com/FinityFly" target="blank"><img align="center" src="https://seeklogo.com/images/D/devpost-logo-95FF685C5D-seeklogo.com.png" alt="https://devpost.com/FinityFly" height="30" /></a>
-
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=tokyonight" alt="finityfly" /></p>
+  <a href="https://devpost.com/FinityFly" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bo/348599/png/devpost-logo.png" alt="https://devpost.com/FinityFly" height="30" /></a>
 </p>
