@@ -6,7 +6,7 @@
   </a>
 </div>
 
-- ☁️ Check out my latest project [CloudQ](https://github.com/FinityFly/CloudQ)!
+- ☁️ Check out my latest project [CloudQ](https://github.com/FinityFly/CloudQ), winning **Best Web3 Hack at McHacks 12**!
 - 📫 How to reach me **daniellu@cmail.carleton.ca**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=tokyonight" alt="finityfly" /></p>
