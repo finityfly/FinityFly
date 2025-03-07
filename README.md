@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Daniel</h1>
-<h3 align="center">A passionate full-stack developer and ML enthusiast</h3>
 <div align="center">
   <a href="https://www.daniellu.ca/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:30px;">
