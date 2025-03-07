@@ -9,8 +9,21 @@
 - ☁️ Check out my latest project [CloudQ](https://github.com/FinityFly/CloudQ), winning **Best Web3 Hack at McHacks 12**!
 - 📫 How to reach me **daniellu@cmail.carleton.ca**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=graywhite" alt="finityfly" /></p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=graywhite" alt="finityfly-github" />
+      </td>
+      <td align="center" vertical-align="middle">
+        <a href="https://monkeytype.com/profile/finityfly" target="blank">
+          <br />
+          <img align="center" src="https://monkeytype-readme.com/generate-svg/finityfly/rainbow_trail" alt="finityfly-monkeytype" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
