@@ -12,12 +12,12 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&show_icons=true&theme=graywhite" alt="finityfly-github" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FinityFly&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="finityfly-github" />
       </td>
       <td align="center" vertical-align="middle">
         <a href="https://monkeytype.com/profile/finityfly" target="blank">
           <br />
-          <img align="center" src="https://monkeytype-readme.com/generate-svg/finityfly/rainbow_trail" alt="finityfly-monkeytype" />
+          <img align="center" src="https://monkeytype-readme.com/generate-svg/FinityFly/rainbow_trail" alt="finityfly-monkeytype" />
         </a>
       </td>
     </tr>
