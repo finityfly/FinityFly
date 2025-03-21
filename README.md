@@ -17,7 +17,7 @@
       <td align="center" vertical-align="middle">
         <a href="https://monkeytype.com/profile/finityfly" target="blank">
           <br />
-          <img align="center" src="https://monkeytype-readme.com/generate-svg/FinityFly/rainbow_trail" alt="finityfly-monkeytype" />
+          <img align="center" src="https://monkeytype-readme.com/generate-svg/finityfly/rainbow_trail" alt="finityfly-monkeytype" />
         </a>
       </td>
     </tr>
