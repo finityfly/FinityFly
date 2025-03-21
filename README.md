@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=FinityFly&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="finityfly-github" />
+        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=finityfly&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="finityfly-github" />
       </td>
       <td align="center" vertical-align="middle">
         <a href="https://monkeytype.com/profile/finityfly" target="blank">
