@@ -23,6 +23,9 @@
     </tr>
   </table>
 </div>
+<div align="center">
+      <img align="center" src="https://github-readme-activity-graph-liard-eta.vercel.app/graph?username=FinityFly&bg_color=ffffff&color=0d1415&line=616262&radius=8&area=true&area_color=394346&height=300" alt="finityfly-activity" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
