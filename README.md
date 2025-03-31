@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=finityfly&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="finityfly-github" />
+        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=FinityFly&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="finityfly-github" />
       </td>
       <td align="center" vertical-align="middle">
         <a href="https://monkeytype.com/profile/finityfly" target="blank">
@@ -24,7 +24,7 @@
   </table>
 </div>
 <div align="center">
-      <img align="center" src="https://github-readme-activity-graph-liard-eta.vercel.app/graph?username=FinityFly&bg_color=ffffff&color=0d1415&line=616262&radius=8&area=true&area_color=394346&height=300" alt="finityfly-activity" />
+  <img align="center" src="https://github-readme-activity-graph-liard-eta.vercel.app/graph?username=FinityFly&bg_color=ffffff&color=0d1415&line=616262&radius=8&area=true&area_color=394346&height=300" alt="finityfly-activity" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
