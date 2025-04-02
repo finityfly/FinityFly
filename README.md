@@ -1,14 +1,25 @@
-<h1 align="center">Hey 👋, I'm Daniel</h1>
-<div align="center">
-  <a href="https://www.daniellu.ca/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:30px;">
-  </a>
-</div>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.daniellu.ca/">Daniel Lu</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Reach out to me @ 🐦 <b>daniellu@cmail.carleton.ca</b> 」<br>
+  </samp>
+</p>
 
-- ☁️ Check out my latest project [CloudQ](https://github.com/FinityFly/CloudQ), winning **Best Web3 Hack at McHacks 12**!
-- 📫 How to reach me **daniellu@cmail.carleton.ca**
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+  </p>
+</samp>
 
-<div align="center">
+<details align="center">
+  <summary> <samp>&#9776; Details</samp></summary><br>
+
+  <a href="https://github.com/FinityFly?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-All-000000?style=flat-square&logoColor=white"></a>
+  <a href="https://github.com/FinityFly?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+  <a href="https://github.com/FinityFly?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
+  <a href="https://github.com/FinityFly?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-3177c4?style=flat-square&logo=Typescript&logoColor=white"></a>
+  <br>
+  <a href="https://github.com/FinityFly/FinityFly" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FinityFly/FinityFly?label=profile%20updated&style=flat-square"></a>
   <table>
     <tr>
       <td>
@@ -22,18 +33,30 @@
       </td>
     </tr>
   </table>
-</div>
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph-liard-eta.vercel.app/graph?username=FinityFly&bg_color=ffffff&color=0d1415&line=616262&radius=8&area=true&area_color=394346&height=300" alt="finityfly-activity" />
-</div>
+  <div align="center">
+    <img align="center" src="https://github-readme-activity-graph-liard-eta.vercel.app/graph?username=FinityFly&bg_color=ffffff&color=0d1415&line=616262&radius=8&area=true&area_color=394346&height=300" alt="finityfly-activity" />
+  </div>
+</details>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-lu-9575a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lu-9575a0176/" height="30" /></a>
-  &thinsp;
-  <a href="https://dmoj.ca/user/finity4037" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4" alt="https://dmoj.ca/user/finity4037" height="40" /></a>
-  &thinsp;
-  <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
-  &thinsp;
-  <a href="https://devpost.com/FinityFly" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bo/348599/png/devpost-logo.png" alt="https://devpost.com/FinityFly" height="30" /></a>
-</p>
+<details align="center">
+  <summary> <samp>&#9776; Socials</samp></summary>
+  <h3 align="center"><samp>Connect with me:</samp></h3>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/daniel-lu-9575a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lu-9575a0176/" height="30" /></a>
+    &thinsp;
+    <a href="https://dmoj.ca/user/finity4037" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4" alt="https://dmoj.ca/user/finity4037" height="40" /></a>
+    &thinsp;
+    <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
+    &thinsp;
+    <a href="https://devpost.com/FinityFly" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bo/348599/png/devpost-logo.png" alt="https://devpost.com/FinityFly" height="30" /></a>
+  </p>
+</details>
+<br>
+
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br><br>
+    Check out my <b><a href="https://www.daniellu.ca/">portfolio</a></b>
+  </p>
+</samp>
