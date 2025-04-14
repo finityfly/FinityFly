@@ -20,9 +20,9 @@
   <br>
   <a href="https://github.com/FinityFly/FinityFly" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FinityFly/FinityFly?label=profile%20updated&style=flat-square"></a>
   <br>
-  <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/finityfly"></a>
+  <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/FinityFly"></a>
   <a href="https://www.dmoj.ca/user/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/dmoj/finity4037"></a>
-  <a href="https://atcoder.jp/users/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/atcoder/finity4037"></a>
+  <a href="https://atcoder.jp/users/finity4037" target="_blank"><img alt="Atcoder" src="http://mosesxu.ca/judge-badge/atcoder/finity4037"></a>
   <br>
   <table>
     <tr>
@@ -49,9 +49,11 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/daniel-lu-9575a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lu-9575a0176/" height="30" /></a>
     &thinsp;
+    <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
+    &thinsp;
     <a href="https://dmoj.ca/user/finity4037" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4" alt="https://dmoj.ca/user/finity4037" height="40" /></a>
     &thinsp;
-    <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
+    <a href="https://atcoder.jp/users/finity4037" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" alt="https://atcoder.jp/users/finity4037" height="40" /></a>
     &thinsp;
     <a href="https://devpost.com/FinityFly" target="blank"><img align="center" src="https://iconape.com/wp-content/files/bo/348599/png/devpost-logo.png" alt="https://devpost.com/FinityFly" height="30" /></a>
   </p>
