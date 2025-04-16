@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.daniellu.ca/">Daniel Lu</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    「 Reach out to me @ 🐦 <b>daniellu@cmail.carleton.ca</b> 」<br>
+    「 Reach out to me @ 🐦 <a href="mailto:daniellu@cmail.carleton.ca"><b>daniellu@cmail.carleton.ca</b></a> 」<br>
   </samp>
 </p>
 
