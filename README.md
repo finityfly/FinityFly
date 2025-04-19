@@ -15,6 +15,8 @@
   <summary> <samp>&#9776; Details</samp></summary><br>
   <a href="https://github.com/FinityFly?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-All-000000?style=flat-square&logoColor=white"></a>
   <a href="https://github.com/FinityFly?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
+  <a href="https://github.com/FinityFly?tab=repositories&language=cpp" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-Cpp-014284?style=flat-square&logo=Cplusplus&logoColor=white"></a>
+  <a href="https://github.com/FinityFly?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-fd9812?style=flat-square&logo=openjdk&logoColor=white"></a>
   <a href="https://github.com/FinityFly?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
   <a href="https://github.com/FinityFly?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-3177c4?style=flat-square&logo=Typescript&logoColor=white"></a>
   <br>
