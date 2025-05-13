@@ -22,14 +22,14 @@
   <br>
   <a href="https://github.com/FinityFly/FinityFly" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FinityFly/FinityFly?label=profile%20updated&style=flat-square"></a>
   <br>
-  <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/FinityFly"></a>
-  <a href="https://www.dmoj.ca/user/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/dmoj/finity4037"></a>
-  <a href="https://atcoder.jp/users/finity4037" target="_blank"><img alt="Atcoder" src="http://mosesxu.ca/judge-badge/atcoder/finity4037"></a>
+  <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/finityfly"></a>
+  <a href="https://www.dmoj.ca/user/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/dmoj/Finity4037"></a>
+  <a href="https://atcoder.jp/users/finity4037" target="_blank"><img alt="Atcoder" src="http://mosesxu.ca/judge-badge/atcoder/Finity4037"></a>
   <br>
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=finityfly&theme=graywhite&show_icons=true&hide_border=true&count_private=true&show=reviews" alt="finityfly-github" />
+        <img align="center" src="https://github-stats-lemon-six.vercel.app/api?username=FinityFly&theme=graywhite&show_icons=true&hide_border=true&count_private=true&show=reviews" alt="finityfly-github" />
       </td>
       <td align="center" vertical-align="middle">
         <a href="https://monkeytype.com/profile/finityfly" target="blank">
