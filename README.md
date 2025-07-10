@@ -20,7 +20,8 @@
   <a href="https://github.com/FinityFly?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
   <a href="https://github.com/FinityFly?tab=repositories&language=typescript" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-3177c4?style=flat-square&logo=Typescript&logoColor=white"></a>
   <br>
-  <a href="https://github.com/FinityFly/FinityFly" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FinityFly/FinityFly?label=profile%20updated&style=flat-square"></a>
+  <a href="https://github.com/FinityFly/FinityFly" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/FinityFly/FinityFly?label=profile%20updated&style=flat"></a>
+  <a href="https://github.com/FinityFly" target="_blank"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=FinityFly&color=000000&label=profile+views&style=flat"></a>
   <br>
   <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/finityfly"></a>
   <a href="https://www.dmoj.ca/user/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/dmoj/Finity4037"></a>
