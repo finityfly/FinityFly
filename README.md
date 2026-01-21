@@ -1,7 +1,13 @@
 <h3 align="center"><samp>Hey visitor! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.daniellu.ca/">Daniel Lu</a></b></samp></h3>
-<p align="center"><br>
+<samp>
+  <p align="center">
+    <br>
+    「 Check out my <b><a href="https://www.daniellu.ca/">portfolio</a></b> 」
+  </p>
+</samp>
+<p align="center">
   <samp>
-    「 Reach out to me @ 🐦 <a href="mailto:daniellu@cmail.carleton.ca"><b>daniellu@cmail.carleton.ca</b></a> 」<br>
+    「 Reach out to me @ <a href="mailto:daniellu@cmail.carleton.ca"><b>daniellu@cmail.carleton.ca</b></a> 」<br><br>
   </samp>
 </p>
 
@@ -65,7 +71,6 @@
 
 <samp>
   <p align="center">
-    ════ ⋆★⋆ ════<br><br>
-    Check out my <b><a href="https://www.daniellu.ca/">portfolio</a></b>
+    ════ ⋆★⋆ ════
   </p>
 </samp>
