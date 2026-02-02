@@ -58,6 +58,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/daniel-lu-9575a0176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-lu-9575a0176/" height="30" /></a>
     &thinsp;
+    <a href="https://x.com/im_daniel_lu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="https://x.com/im_daniel_lu" height="40"  /></a> 
     <a href="https://codeforces.com/profile/finityfly" target="blank"><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="https://codeforces.com/profile/finityfly" height="40"  /></a>
     &thinsp;
     <a href="https://dmoj.ca/user/finity4037" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/6934864?s=280&v=4" alt="https://dmoj.ca/user/finity4037" height="40" /></a>
