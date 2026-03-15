@@ -30,6 +30,7 @@
   <a href="https://github.com/FinityFly" target="_blank"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=FinityFly&color=000000&label=profile+views&style=flat"></a>
   <br>
   <a href="https://codeforces.com/profile/finityfly" target="_blank"><img alt="Codeforces" src="http://mosesxu.ca/judge-badge/codeforces/finityfly"></a>
+  <a href="https://leetcode.com/finityfly/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=flat&color=%23ffa116&label=LeetCode&query=rating&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ffinityfly&logo=leetcode"></a>
   <a href="https://www.dmoj.ca/user/finity4037" target="_blank"><img alt="DMOJ" src="http://mosesxu.ca/judge-badge/dmoj/Finity4037"></a>
   <a href="https://atcoder.jp/users/finity4037" target="_blank"><img alt="Atcoder" src="http://mosesxu.ca/judge-badge/atcoder/Finity4037"></a>
   <br>
