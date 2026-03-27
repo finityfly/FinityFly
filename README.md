@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hey, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.daniellu.ca/">Daniel Lu</a></b></samp></h3>
+<h3 align="center"><samp>Hey, I'm Daniel</samp></h3>
 <samp>
   <p align="center">
     <br>
@@ -13,10 +13,9 @@
 
 <samp>
   <p align="center">
-    ════ ⋆★⋆ ════<br>
+    ════ ⋆★⋆ ════
   </p>
 </samp>
-
 <details align="center">
   <summary> <samp>&#9776; Details</samp></summary><br>
   <a href="https://github.com/FinityFly?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-All-000000?style=flat-square&logoColor=white"></a>
@@ -70,9 +69,3 @@
   </p>
 </details>
 <br>
-
-<samp>
-  <p align="center">
-    ════ ⋆★⋆ ════
-  </p>
-</samp>
